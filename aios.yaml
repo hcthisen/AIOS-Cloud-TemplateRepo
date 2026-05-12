@@ -1,0 +1,9 @@
+version: 1
+rootName: Root
+departments:
+  - sample
+ignored:
+  - node_modules
+  - .git
+  - dashboard
+  - logs
